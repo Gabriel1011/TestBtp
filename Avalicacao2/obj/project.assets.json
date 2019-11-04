@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\g.almeida\\Desktop\\test\\Avalicacao2\\Avalicacao2.csproj",
+      "projectUniqueName": "C:\\_Projetos\\DEV\\TestBtp\\Avalicacao2\\Avalicacao2.csproj",
       "projectName": "Avalicacao2",
-      "projectPath": "C:\\Users\\g.almeida\\Desktop\\test\\Avalicacao2\\Avalicacao2.csproj",
+      "projectPath": "C:\\_Projetos\\DEV\\TestBtp\\Avalicacao2\\Avalicacao2.csproj",
       "packagesPath": "C:\\Users\\g.almeida\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\g.almeida\\Desktop\\test\\Avalicacao2\\obj\\",
+      "outputPath": "C:\\_Projetos\\DEV\\TestBtp\\Avalicacao2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

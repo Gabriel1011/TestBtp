@@ -1,0 +1,6 @@
+C:\Users\g.almeida\Desktop\test\Test3\bin\Debug\Test3.exe.config
+C:\Users\g.almeida\Desktop\test\Test3\bin\Debug\Test3.exe
+C:\Users\g.almeida\Desktop\test\Test3\bin\Debug\Test3.pdb
+C:\Users\g.almeida\Desktop\test\Test3\obj\Debug\Test3.csprojAssemblyReference.cache
+C:\Users\g.almeida\Desktop\test\Test3\obj\Debug\Test3.exe
+C:\Users\g.almeida\Desktop\test\Test3\obj\Debug\Test3.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\g.almeida\\Desktop\\test\\Avalicacao1\\Avalicacao1.csproj": {}
+    "C:\\_Projetos\\DEV\\TestBtp\\Avalicacao1\\Avalicacao1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\g.almeida\\Desktop\\test\\Avalicacao1\\Avalicacao1.csproj": {
+    "C:\\_Projetos\\DEV\\TestBtp\\Avalicacao1\\Avalicacao1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\g.almeida\\Desktop\\test\\Avalicacao1\\Avalicacao1.csproj",
+        "projectUniqueName": "C:\\_Projetos\\DEV\\TestBtp\\Avalicacao1\\Avalicacao1.csproj",
         "projectName": "Avalicacao1",
-        "projectPath": "C:\\Users\\g.almeida\\Desktop\\test\\Avalicacao1\\Avalicacao1.csproj",
+        "projectPath": "C:\\_Projetos\\DEV\\TestBtp\\Avalicacao1\\Avalicacao1.csproj",
         "packagesPath": "C:\\Users\\g.almeida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\g.almeida\\Desktop\\test\\Avalicacao1\\obj\\",
+        "outputPath": "C:\\_Projetos\\DEV\\TestBtp\\Avalicacao1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
