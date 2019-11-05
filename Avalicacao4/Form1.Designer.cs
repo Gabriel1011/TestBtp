@@ -1,4 +1,4 @@
-﻿namespace Avalicacao4
+﻿namespace Test4
 {
     partial class Form1
     {

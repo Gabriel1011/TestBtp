@@ -4,3 +4,9 @@ C:\Users\g.almeida\Desktop\test\Test1\bin\Debug\Test1.pdb
 C:\Users\g.almeida\Desktop\test\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
 C:\Users\g.almeida\Desktop\test\Test1\obj\Debug\Test1.exe
 C:\Users\g.almeida\Desktop\test\Test1\obj\Debug\Test1.pdb
+C:\_Projetos\DEV\TestBtp\Test1\bin\Debug\Test1.exe.config
+C:\_Projetos\DEV\TestBtp\Test1\bin\Debug\Test1.exe
+C:\_Projetos\DEV\TestBtp\Test1\bin\Debug\Test1.pdb
+C:\_Projetos\DEV\TestBtp\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+C:\_Projetos\DEV\TestBtp\Test1\obj\Debug\Test1.exe
+C:\_Projetos\DEV\TestBtp\Test1\obj\Debug\Test1.pdb

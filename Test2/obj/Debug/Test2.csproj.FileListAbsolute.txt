@@ -4,3 +4,9 @@ C:\Users\g.almeida\Desktop\test\Test2\bin\Debug\Test2.pdb
 C:\Users\g.almeida\Desktop\test\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
 C:\Users\g.almeida\Desktop\test\Test2\obj\Debug\Test2.exe
 C:\Users\g.almeida\Desktop\test\Test2\obj\Debug\Test2.pdb
+C:\_Projetos\DEV\TestBtp\Test2\bin\Debug\Test2.exe.config
+C:\_Projetos\DEV\TestBtp\Test2\bin\Debug\Test2.exe
+C:\_Projetos\DEV\TestBtp\Test2\bin\Debug\Test2.pdb
+C:\_Projetos\DEV\TestBtp\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+C:\_Projetos\DEV\TestBtp\Test2\obj\Debug\Test2.exe
+C:\_Projetos\DEV\TestBtp\Test2\obj\Debug\Test2.pdb

@@ -1,0 +1,9 @@
+C:\_Projetos\DEV\TestBtp\Avalicacao4\bin\Debug\Avalicacao4.exe.config
+C:\_Projetos\DEV\TestBtp\Avalicacao4\bin\Debug\Avalicacao4.exe
+C:\_Projetos\DEV\TestBtp\Avalicacao4\bin\Debug\Avalicacao4.pdb
+C:\_Projetos\DEV\TestBtp\Avalicacao4\obj\Debug\Test4.csprojAssemblyReference.cache
+C:\_Projetos\DEV\TestBtp\Avalicacao4\obj\Debug\Test4.Form1.resources
+C:\_Projetos\DEV\TestBtp\Avalicacao4\obj\Debug\Avalicacao4.Properties.Resources.resources
+C:\_Projetos\DEV\TestBtp\Avalicacao4\obj\Debug\Test4.csproj.GenerateResource.cache
+C:\_Projetos\DEV\TestBtp\Avalicacao4\obj\Debug\Avalicacao4.exe
+C:\_Projetos\DEV\TestBtp\Avalicacao4\obj\Debug\Avalicacao4.pdb
