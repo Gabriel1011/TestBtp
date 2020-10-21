@@ -1,6 +1,6 @@
 *Realize o clone desse repositorio! (Diretorio na máquina de sua preferencia)
 
-		* As instruções estão dentro de cada projeto. Verifique e implemente *
+		* As instruções estão dentro de cada projeto. Verifique e implemente, após realizar o teste faça um pull request para o repositorio inicial *
 
 # Questões Teóricas
 
@@ -35,3 +35,5 @@
 * comente o que sabe sobre Docker/Container.
 
 * Quais as vantagens e desvantagens sobre API e quais preocupaçõe devemos ter quando escolhemos essa abordagem ?
+
+* Fale um pouco sobre o conceito de mensageria e cite um sistema que exerça essa função.
